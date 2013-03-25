@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<Data>
+  <LastUpdate>3/2/2013 2:27:17 PM</LastUpdate>
+  <Time>03/02/2013 10:25 AM</Time>
+  <Uv>1</Uv>
+  <Dir>120</Dir>
+  <Dir_Cardinal>East South East</Dir_Cardinal>
+  <Speed_Kph>27.8</Speed_Kph>
+  <Speed_Mph>17.3</Speed_Mph>
+  <Sky>Partly Cloudy</Sky>
+  <SkyImg>53.png</SkyImg>
+  <Rh>66.7</Rh>
+  <Visibility>25000</Visibility>
+  <Precip>0</Precip>
+  <Dp>22.1</Dp>
+  <AT>28.8</AT>
+  <Pressure>1011.3</Pressure>
+  <AT_F>83.8</AT_F>
+  <Heatc>31.9</Heatc>
+  <Heatf>89.4</Heatf>
+  <Speed_Kt>15</Speed_Kt>
+</Data>

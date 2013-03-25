@@ -1,0 +1,3 @@
+
+C:\Ruby200\bin\ruby.exe getfor.rb
+C:\Ruby200\bin\ruby.exe gfs.rb >GFS_TNCC.json

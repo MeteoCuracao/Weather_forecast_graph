@@ -1,0 +1,2 @@
+ Station ID: TNCCkkkkkk Lat:   12.19 Long:   68.96                                                        
+ GFS Model Run:  0Z 22MAR 2013
